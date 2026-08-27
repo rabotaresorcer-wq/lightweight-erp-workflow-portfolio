@@ -66,39 +66,57 @@ The following nine cards are the final English LinkedIn version of this portfoli
 
 ### 01. Workflow Overview
 
-![Workflow overview](assets/linkedin-final/01-cover.png)
+<p align="center">
+  <img src="assets/linkedin-final/01-cover.png" alt="Workflow overview" width="520">
+</p>
 
 ### 02. Design Challenge
 
-![Design challenge: repeated data entry](assets/linkedin-final/02-design-challenge.png)
+<p align="center">
+  <img src="assets/linkedin-final/02-design-challenge.png" alt="Design challenge: repeated data entry" width="520">
+</p>
 
 ### 03. CRM Entry Point
 
-![CRM as the single entry point](assets/linkedin-final/03-crm-single-entry-point.png)
+<p align="center">
+  <img src="assets/linkedin-final/03-crm-single-entry-point.png" alt="CRM as the single entry point" width="520">
+</p>
 
 ### 04. Multilingual Data Model
 
-![Multilingual data model](assets/linkedin-final/04-multilingual-data-model.png)
+<p align="center">
+  <img src="assets/linkedin-final/04-multilingual-data-model.png" alt="Multilingual data model" width="520">
+</p>
 
 ### 05. Commercial Logic
 
-![Commercial logic](assets/linkedin-final/05-commercial-logic.png)
+<p align="center">
+  <img src="assets/linkedin-final/05-commercial-logic.png" alt="Commercial logic" width="520">
+</p>
 
 ### 06. Automation and Standardization
 
-![Automation and standardization](assets/linkedin-final/06-automation-standardization.png)
+<p align="center">
+  <img src="assets/linkedin-final/06-automation-standardization.png" alt="Automation and standardization" width="520">
+</p>
 
 ### 07. Operations and Finance
 
-![Operations and finance](assets/linkedin-final/07-operations-finance.png)
+<p align="center">
+  <img src="assets/linkedin-final/07-operations-finance.png" alt="Operations and finance" width="520">
+</p>
 
 ### 08. Management Reporting
 
-![Management reporting](assets/linkedin-final/08-management-reporting.png)
+<p align="center">
+  <img src="assets/linkedin-final/08-management-reporting.png" alt="Management reporting" width="520">
+</p>
 
 ### 09. Summary and Next-Stage Automation
 
-![Case summary and next-stage automation](assets/linkedin-final/09-case-summary-next-automation.png)
+<p align="center">
+  <img src="assets/linkedin-final/09-case-summary-next-automation.png" alt="Case summary and next-stage automation" width="520">
+</p>
 
 ## Business Impact
 
